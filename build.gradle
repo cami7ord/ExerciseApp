@@ -13,6 +13,12 @@ buildscript {
     }
 }
 
+ext {
+    navigationVersion = '2.3.5'
+    roomVersion = '2.3.0'
+    koinVersion = '3.1.2'
+}
+
 task clean(type: Delete) {
     delete rootProject.buildDir
 }
