@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">ExerciseApp</string>
+    <string name="title_overview">Overview</string>
+    <string name="start_training">Start training</string>
+    <string name="cancel_training">Cancel training</string>
+    <!-- content descriptions -->
+    <string name="description_exercise_thumb">Exercise image</string>
+    <string name="description_favorite_exercise">Favorite exercise</string>
 </resources>
